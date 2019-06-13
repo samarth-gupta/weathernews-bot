@@ -6,3 +6,6 @@ It uses [Dialogflow](https://dialogflow.com/) by Google to help with responses a
 
 1) For weather - OpenWeatherMap API is used. ( Link : [here](https://openweathermap.org/) ) 
 2) For news - gnewsclient is used. ( Link : [here](https://pypi.org/project/gnewsclient/) )
+
+
+Please enjoy the minimalistic features of this chatbot at your leisure.
